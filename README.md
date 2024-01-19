@@ -3,4 +3,4 @@ script for configure mac as expert developer auto installing brews, apps and scr
 
 - open terminal app
 - run following command
-- git clone
+- git clone https://github.com/niosz/init-mac.git
